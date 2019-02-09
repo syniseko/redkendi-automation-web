@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pilih_catering_button</name>
+   <tag></tag>
+   <elementGuidId>f0d39e77-38fb-4f0e-8016-fcbcd345abca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;cdk-step-content-0-0&quot;]/form/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;cdk-step-content-0-0&quot;]/form/div[3]/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

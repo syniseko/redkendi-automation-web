@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>day_22_text</name>
+   <tag></tag>
+   <elementGuidId>a48e73f9-0ca5-4f33-ad19-35c820fce58b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout/app-package-detail/div/section/div/div[2]/div/div/div[1]/ngx-daterangepicker-material/div/div[2]/div/table/tbody/tr[4]/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout/app-package-detail/div/section/div/div[2]/div/div/div[1]/ngx-daterangepicker-material/div/div[2]/div/table/tbody/tr[4]/td[6]</value>
+   </webElementProperties>
+</WebElementEntity>

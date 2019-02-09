@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>date_order_button</name>
+   <tag></tag>
+   <elementGuidId>fea9b6e7-d1b1-4314-89e3-81f76e93350d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout/app-package-detail/div/section/div/div[2]/div/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout/app-package-detail/div/section/div/div[2]/div/div/div[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Tanggal Pesanan</value>
+   </webElementProperties>
+</WebElementEntity>

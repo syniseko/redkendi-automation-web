@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>order-food-case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c562bd5-2d33-4cc2-98ec-94e84e66920d</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.URL</defaultValue>
+      <description></description>
+      <id>98406405-6c94-4ca3-8f68-fe84836baa25</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

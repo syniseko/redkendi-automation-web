@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lanjut_button</name>
+   <tag></tag>
+   <elementGuidId>4e5dcafd-f058-444f-a7d4-8c13b1aee12b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mat-dialog-0&quot;]/app-dialog-confirm-tpl/mat-dialog-actions/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mat-dialog-0&quot;]/app-dialog-confirm-tpl/mat-dialog-actions/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

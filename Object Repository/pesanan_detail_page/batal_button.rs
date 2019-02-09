@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>batal_button</name>
+   <tag></tag>
+   <elementGuidId>7184029f-fc69-4222-97cd-f3908cb903b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-layout/app-new-request/div/section/div[1]/div[2]/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-layout/app-new-request/div/section/div[1]/div[2]/div/div[2]/div/button</value>
+   </webElementProperties>
+</WebElementEntity>
